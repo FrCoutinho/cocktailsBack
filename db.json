@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Vesper",
       "glass": "martini",
+	  "image_url" : "https://cocktailflavors.com/wp-content/uploads/2024/01/vesper-martini-cocktail-recipe_001.png",
       "category": "Before Dinner Cocktail",
       "ingredients": [
         {
@@ -52,32 +53,6 @@
       "preparation": "Shake with ice cubes. Strain into chilled cocktail glass."
     },
     {
-      "id": 3,
-      "name": "Negroni",
-      "glass": "old-fashioned",
-      "category": "Before Dinner Cocktail",
-      "ingredients": [
-        {
-          "unit": "cl",
-          "amount": 3,
-          "ingredient": "Gin"
-        },
-        {
-          "unit": "cl",
-          "amount": 3,
-          "ingredient": "Campari"
-        },
-        {
-          "unit": "cl",
-          "amount": 3,
-          "ingredient": "Vermouth",
-          "label": "Sweet red vermouth"
-        }
-      ],
-      "garnish": "Half an orange slice",
-      "preparation": "Build into old-fashioned glass filled with ice. Stir gently."
-    },
-    {
       "id": 4,
       "name": "Rose",
       "glass": "martini",
@@ -98,31 +73,6 @@
         }
       ],
       "preparation": "Stir all ingredients with ice and strain into a cocktail glass."
-    },
-    {
-      "id": 5,
-      "name": "Old Fashioned",
-      "glass": "old-fashioned",
-      "category": "Before Dinner Cocktail",
-      "ingredients": [
-        {
-          "unit": "cl",
-          "amount": 4.5,
-          "ingredient": "Whiskey",
-          "label": "Bourbon or rye whiskey"
-        },
-        {
-          "special": "2 dashes Angostura Bitters"
-        },
-        {
-          "special": "1 sugar cube"
-        },
-        {
-          "special": "Few dashes plain water"
-        }
-      ],
-      "garnish": "Orange slice and cherry",
-      "preparation": "Place sugar cube in old-fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolve. Fill the glass with ice cubes and add whisky."
     },
     {
       "id": 6,
@@ -2077,57 +2027,11 @@
       "preparation": "Build vodka and orange juice into a highball glass filled with ice. Stir gently and float Galliano on top."
     },
     {
-      "name": "",
+      "name": "wer",
       "glass": "",
       "ingredients": [],
       "ingredient": "",
       "id": 80
-    },
-    {
-      "name": "Francisco",
-      "glass": "martini",
-      "ingredients": [
-        "vodka"
-      ],
-      "ingredient": "",
-      "id": 81
-    },
-    {
-      "name": "Francisco",
-      "glass": "martini",
-      "ingredients": [
-        "vodka"
-      ],
-      "ingredient": "",
-      "id": 82
-    },
-    {
-      "name": "",
-      "glass": "",
-      "ingredients": [],
-      "ingredient": "",
-      "id": 83
-    },
-    {
-      "name": "Francisco",
-      "glass": "martini",
-      "ingredients": [],
-      "ingredient": "",
-      "id": 84
-    },
-    {
-      "name": "",
-      "glass": "",
-      "ingredients": [],
-      "ingredient": "",
-      "id": 85
-    },
-    {
-      "name": "",
-      "glass": "",
-      "ingredients": [],
-      "ingredient": "",
-      "id": 86
     }
   ],
   "ingredients": [
