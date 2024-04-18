@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Vesper",
       "glass": "martini",
-	  "image_url" : "https://cocktailflavors.com/wp-content/uploads/2024/01/vesper-martini-cocktail-recipe_001.png",
+      "image_url": "https://cocktailflavors.com/wp-content/uploads/2024/01/vesper-martini-cocktail-recipe_001.png",
       "category": "Before Dinner Cocktail",
       "ingredients": [
         {
